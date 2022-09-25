@@ -1,1 +1,2 @@
 This is edited text from github.
+This is feature 1 Text.
